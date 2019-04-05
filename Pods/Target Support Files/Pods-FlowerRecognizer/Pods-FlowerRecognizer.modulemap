@@ -1,0 +1,6 @@
+framework module Pods_FlowerRecognizer {
+  umbrella header "Pods-FlowerRecognizer-umbrella.h"
+
+  export *
+  module * { export * }
+}
